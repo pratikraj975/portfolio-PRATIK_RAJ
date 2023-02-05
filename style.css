@@ -193,7 +193,7 @@ table tr {
 .projects-container {
   padding-left: 15%;
   background-color: rgb(0, 0, 0);
-  color: white;
+  color: rgb(4, 4, 4);
   padding-right: 15%;
 }
 .card {
