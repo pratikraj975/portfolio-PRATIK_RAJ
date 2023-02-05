@@ -86,7 +86,8 @@ body {
 }
 .img1 {
  
-  height: 350px;
+  width: 300px;
+  border-radius: 30px;
   
 }
 .btn1 {
