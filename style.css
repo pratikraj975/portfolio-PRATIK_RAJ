@@ -151,7 +151,7 @@ table tr {
   color: white;
 }
 .skills-inner-container {
-  width: 100%;
+  width: 80%;
   margin-right: auto;
   border-radius: 240px;
   /* Full width */
@@ -166,27 +166,27 @@ table tr {
 }
 
 .html {
-  width: 75%;
+  width: 74.2%;
   background-color: #333;
 }
 .css {
-  width: 85%;
+  width: 84.2%;
   background-color: #333;
 }
 .js {
-  width: 70%;
+  width: 69.2%;
   background-color: #333;
 }
 .bootstrap {
-  width: 70%;
+  width: 74.2%;
   background-color: #333;
 }
 .cpp {
-  width: 80%;
+  width: 79.2%;
   background-color: #333;
 }
 .react_js {
-  width: 30%;
+  width: 29.2%;
   background-color: #333;
 }
 
